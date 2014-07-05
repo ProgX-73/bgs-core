@@ -38,6 +38,7 @@ protected JSONObject doWork() {
    
 }
 
+
 @Override
 protected JSONObject getConfig() {
    return null;
@@ -45,7 +46,7 @@ protected JSONObject getConfig() {
 
 @Override
 protected void setConfig(JSONObject config) {
-   r
+   
 }     
 
 @Override
